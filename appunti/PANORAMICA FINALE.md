@@ -2,7 +2,7 @@ In sintesi, l'analisi delle diverse reti fornisce un quadro dettagliato di varie
 
 ### Rete di Attacchi di Cuore:
 
-- **Centralità di Grado:** La centralità di grado mostra la rilevanza relativa dei diversi stati in termini di attacchi di cuore, con alcuni stati che hanno una maggiore centralità rispetto ad altri.
+- **Centralità di Grado:** mostra la rilevanza relativa dei diversi stati in termini di attacchi di cuore, con alcuni stati che hanno una maggiore centralità rispetto ad altri.
   
 - **Centralità di Betweenness:** Indica i potenziali hub o nodi critici nella trasmissione delle informazioni o influenza all'interno della rete.
   
@@ -37,5 +37,3 @@ Il risultato definitivo del progetto dipende dagli obiettivi specifici e dalle d
 2. **Integrazione dei Dati:** Considerando i risultati del multigrafo, l'integrazione di più fonti di dati potrebbe arricchire l'analisi, permettendo una valutazione più completa e dettagliata dei fattori che influenzano gli attacchi di cuore.
 
 3. **Policy Making e Interventi:** Basandosi sui risultati delle reti, è possibile informare politiche preventive e interventi volti a ridurre il rischio di attacchi di cuore, ad esempio regolamentando la densità dei fast food in determinate aree o promuovendo stili di vita più sani.
-
-In conclusione, il progetto fornisce una base solida per ulteriori indagini e interventi mirati, evidenziando l'importanza di un'analisi integrata e multi-dimensionale per affrontare questioni complesse come la salute pubblica e il benessere.
